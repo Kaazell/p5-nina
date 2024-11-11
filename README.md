@@ -33,7 +33,7 @@ Les compétences en SEO et en accessibilité sont essentielles dans le développ
 
 
 ## Aperçu
-Visiter le site [Nina Carducci](https://booki-three-indol.vercel.app/)
+Visiter le site [Nina Carducci](https://p5-nina.vercel.app/)
 
 ![Capture d'écran du site de Nina Carducci](/screenshots/nina1.webp)
 
