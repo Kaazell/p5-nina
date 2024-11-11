@@ -31,5 +31,11 @@ Ce projet m'a permis de renforcer des compétences essentielles, notamment :
 ## Importance pour ma carrière
 Les compétences en SEO et en accessibilité sont essentielles dans le développement web. Elles permettent non seulement d'augmenter la visibilité d'un site, mais aussi d'améliorer l'expérience utilisateur et de répondre aux attentes des clients. La capacité à analyser et optimiser un site est très recherchée, car elle contribue directement au succès et à la portée d'un projet web.
 
+
+## Aperçu
+Visiter le site [Nina Carducci](https://booki-three-indol.vercel.app/)
+
+![Capture d'écran du site de Nina Carducci](/screenshots/nina1.webp)
+
 ## Auteur
 Projet réalisé par Atef Lachhab dans le cadre de la formation OpenClassrooms - Développeur Web.
